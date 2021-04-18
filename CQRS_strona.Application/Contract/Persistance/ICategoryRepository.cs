@@ -1,4 +1,4 @@
-using CQRS_strona.Domain.Entities;
+﻿using CQRS_strona.Domain.Entities;
 
 
 namespace CQRS_strona.Application.Contracts.Persistance
@@ -7,6 +7,6 @@ namespace CQRS_strona.Application.Contracts.Persistance
     {
 
         //Task<List<Category>>
-            //GetCategoriesWithPost(SearchCategoryOptions searchCategory);
+        //GetCategoriesWithPost(SearchCategoryOptions searchCategory);
     }
 }

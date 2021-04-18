@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CQRS_strona.Domain.Entities
 {
-    public class Webinar
+    public class Webinars
     {
         public int Id { get; set; }
 
