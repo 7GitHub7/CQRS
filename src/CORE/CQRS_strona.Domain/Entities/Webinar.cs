@@ -1,11 +1,8 @@
-
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace CQRS_strona.Domain.Entities
 {
-    public class Webinars
+    public class Webinar
     {
         public int Id { get; set; }
 
@@ -26,6 +23,5 @@ namespace CQRS_strona.Domain.Entities
         public DateTime Date { get; set; }
 
         public bool AlreadyHappend { get; set; }
-
     }
 }

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CQRS_strona.Application.Functions.Posts.Queries.GetPostDetail.CategoryDTO">
+    <Position X="6.5" Y="6.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAgAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Functions\Posts\Queries\GetPostDetail\CategoryDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CQRS_strona.Application.Functions.Posts.Queries.GetPostDetail.GetPostDetailQuery">
+    <Position X="0.5" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Functions\Posts\Queries\GetPostDetail\GetPostDetailQuery.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CQRS_strona.Application.Functions.Posts.Queries.GetPostDetail.GetPostDetailQueryHandler" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAQAAAAAAAICAAAAAAAAAAA=</HashCode>
+      <FileName>Functions\Posts\Queries\GetPostDetail\GetPostDetailQueryHandler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CQRS_strona.Application.Functions.Posts.Queries.GetPostDetail.PostDetailViewModel">
+    <Position X="4.25" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAAAQAAAAAAgAkEAgAAAAAAAAAAAAAABCAAAAAAACAA=</HashCode>
+      <FileName>Functions\Posts\Queries\GetPostDetail\PostDetailViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Get.GetPostsListQuery" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Functions\Posts\Queries\GetPostsList\GetPostsListQuery.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CQRS_strona.Application.Functions.Posts.PostInListViewModel">
+    <Position X="6.5" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAEEAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Functions\Posts\Queries\GetPostsList\PostInListViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CQRS_strona.Application.Functions.Posts.Queries.GetPostsList.GetPostsListQueryHandler">
+    <Position X="0.5" Y="3" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAQAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Functions\Posts\Queries\GetPostsList\GetPostsListQueryHandler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CQRS_strona.Application.ApplicationInstallation">
+    <Position X="10.75" Y="5.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApplicationInstallation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CQRS_strona.Application.Mapper.MappingProfile">
+    <Position X="10.75" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mapper\MappingProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CQRS_strona.Domain.Entities
 {
-    public class Category
+    public class Category : AuditableEntity
     {
         public int CategoryId { get; set; }
 
